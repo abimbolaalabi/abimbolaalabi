@@ -17,13 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-## 📊 GitHub Stats  
-<div align="center">
 
-![Abimbola's GitHub stats](https://github-readme-stats.vercel.app/api?username=abimbolaalabi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abimbolaalabi&layout=compact&theme=radical)  
-
-</div>
 ## 📈 Contributions  
 
 <div align="center">
