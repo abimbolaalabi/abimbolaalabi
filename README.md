@@ -18,18 +18,11 @@
 
 </div>
 
-## 📈 Contributions  
+---
 
-<div align="center">
+### 📊 My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abimbolaalabi&theme=radical&hide_border=false)  
+[![Abimbola’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abimbolaalabi&show_icons=true&theme=radical)](https://github.com/abimbolaalabi)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abimbolaalabi&layout=compact&theme=radical)](https://github.com/abimbolaalabi)  
 
-</div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)) 
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimade77@gmail.com)  
-
-</div>
