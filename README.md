@@ -23,13 +23,5 @@
 
 </div>
 
----
 
-## 📊 My GitHub Stats  
-
-> ⚠️ Replace **YOUR-VERCEL-APP** with your real Vercel deployment URL.
-
-[![Abimbola’s GitHub stats](https://YOUR-VERCEL-APP.vercel.app/api?username=abimbolaalabi&show_icons=true&theme=radical)](https://github.com/abimbolaalabi)  
-
-[![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=abimbolaalabi&layout=compact&theme=radical)](https://github.com/abimbolaalabi)
 
