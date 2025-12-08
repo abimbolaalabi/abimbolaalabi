@@ -1,12 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHi+My+name+is+Alabi+Ibrahim;Nice+to+meet+you!)](https://git.io/typing-svg)
-## Frontend Developer
-✏️ I've been diving into the world of coding for over a year, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly developed a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. i have opened up new possibilities for creating robust, dynamic projects. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
 
-🌍  I'm based in Nigeria
-🚀  I'm currentlylearning and improving on React.
-🤝  I'm open to collaborating on innovative web design projects, interactive animations, and responsive front-end development.
-⚡  I secretly dream of building an app that goes viral… but let’s keep that between us
-## 🔧 Tech Stack
+## Frontend Developer
+
+✏️ I've been diving into the world of coding for over a year, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly built a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
+
+🌍 I'm based in Nigeria  
+🚀 I'm currently learning and improving on React  
+🤝 I'm open to collaborating on innovative web design projects, interactive animations, and responsive front-end development  
+⚡ I secretly dream of building an app that goes viral… but let’s keep that between us 😉
+
+---
+
+## 🔧 Tech Stack  
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,9 +25,11 @@
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats  
 
-[![Abimbola’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abimbolaalabi&show_icons=true&theme=radical)](https://github.com/abimbolaalabi)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abimbolaalabi&layout=compact&theme=radical)](https://github.com/abimbolaalabi)  
+> ⚠️ Replace **YOUR-VERCEL-APP** with your real Vercel deployment URL.
 
+[![Abimbola’s GitHub stats](https://YOUR-VERCEL-APP.vercel.app/api?username=abimbolaalabi&show_icons=true&theme=radical)](https://github.com/abimbolaalabi)  
+
+[![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=abimbolaalabi&layout=compact&theme=radical)](https://github.com/abimbolaalabi)
 
