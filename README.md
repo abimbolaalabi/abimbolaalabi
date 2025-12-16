@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHi+My+name+is+Alabi+Ibrahim;Nice+to+meet+you!)](https://git.io/typing-svg)
-
+👋 Hi, I'm Alabi Ibrahim
 ## Frontend Developer
 
 ✏️ I've been diving into the world of coding for over a year, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly built a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
@@ -22,6 +21,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlabiIbrahim&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlabiIbrahim&theme=tokyonight" /> </p>
 
 
 
