@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abimbolaalabi&color=blueviolet" alt="abimbolaalabi" />
+</p>
+
 👋 Hi, I'm Alabi Ibrahim
 
 Frontend Developer
