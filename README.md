@@ -2,7 +2,11 @@
     <img src="https://komarev.com/ghpvc/?username=abimbolaalabi&color=blueviolet" alt="abimbolaalabi" />
 </p>
 
-👋 Hi, I'm Alabi Ibrahim
+<!-- Typewriter Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C7FF&center=true&vCenter=true&repeat=true&width=800&lines=👋+Hi%2C+I'm+Alabi+Ibrahim!;I+love+building+building+and+coding.;I+design+scalable+frontend+%26+backend+systems.;Here+is+what+I'm+working+on+currently...)](https://git.io/typing-svg)
+
+
+---
 
 Frontend Developer
 
